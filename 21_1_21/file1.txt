@@ -1,0 +1,6 @@
+hello Linux
+int main()
+{
+  cout << "hello world" << cin
+  return 0;
+}
